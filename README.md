@@ -2,7 +2,7 @@
 E-Voting DApp project
 
 # Download the package.
-# To run the app you must:
+ To run the app you must:
 # 1- Open windows powershell
 (or linux bash)
 # 2- Go to the project dir.
