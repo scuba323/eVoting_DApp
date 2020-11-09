@@ -18,3 +18,7 @@ to mount the code on the blockchain (Ganache).
 to start the web server
 # 7- Wait for the server to be loaded
 It will automatically opens your browser.
+# Troubleshooting
+Once loaded, you will need the start your crypto wallet, like Metamask.
+Set your wallet account on localhost (same port as Ganache).
+Every transaction (Vote or Candidature) will ask to your wallet for confirmation.
