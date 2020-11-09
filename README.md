@@ -1,6 +1,5 @@
 # eVoting_DApp
 E-Voting DApp project
-
 # Download the package.
  To run the app you must:
 # 1- Open windows powershell
@@ -22,3 +21,6 @@ It will automatically opens your browser.
 Once loaded, you will need the start your crypto wallet, like Metamask.
 Set your wallet account on localhost (same port as Ganache).
 Every transaction (Vote or Candidature) will ask to your wallet for confirmation.
+# Details
+To vote you must insert your ID (whatever) and your preference. Giving a non-existing or wrong name, will count as a null vote.
+If you don't see vote count changes, try refresh your webpage, they should appear.
