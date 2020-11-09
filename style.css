@@ -1,0 +1,119 @@
+#btn_candidate {
+    width: 150px;
+    height: 35px;
+    background: #0062ff;
+    font-family: candara;
+    font-size: 20px;
+    color: #f0f5ff;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #2028bd;
+    display: inline-block;
+    padding: 0px 0px 20px 0px;
+    text-decoration: none;
+    outline: none;
+    border-radius: 2px;
+}
+#btn_candidate:active {
+  background-color: #044ec4;
+  color: #dae0eb;
+  transform: translateY(1px);
+}
+
+#p_formain {
+  width: 150px;
+  height: 30px;
+  background: #e6b93e;
+  font-family: candara;
+  font-size: 20px;
+  color: #575757;
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid #2028bd;
+  margin-bottom: -10px;
+  margin-left: 115px;
+  line-height: 30px;
+  display: inline-block;
+  text-decoration: none;
+  outline: none;
+  border-radius: 0px;
+}
+
+#p2_formain {
+  width: 380px;
+  height: 40px;
+  font-family: candara;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+  line-height: 40px;
+  display: inline-block;
+  text-decoration: none;
+  outline: none;
+  border-radius: 0px;
+}
+
+#p_labels {
+  width: 380px;
+  height: 40px;
+  font-family: candara;
+  font-size: 18px;
+  text-align: left;
+  padding-top: 7px;
+  font-weight: bold;
+  margin: 0;
+  line-height: 40px;
+  display: inline-block;
+  text-decoration: none;
+  outline: none;
+  border-radius: 0px;
+}
+
+#votenowbutton {
+  width: 120px;
+  height: 35px;
+  background: #343a40;
+  font-family: candara;
+  font-size: 20px;
+  color: #f0f5ff;
+  border: 1px solid #343a40;
+  margin: 0 auto;
+  text-align: center;
+  line-height:35px;
+  display: inline-block;
+  padding: 0px 0px 20px 0px;
+}
+
+#main_label_xtfr3232 {
+  width: 380px;
+  height: 20px;
+  font-family: candara;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 5px;
+  font-weight: bold;
+  color: #0b0026;
+  margin: 0;
+  line-height: 20px;
+  display: inline-block;
+  text-decoration: none;
+  outline: none;
+  border-radius: 0px;
+}
+
+#small-forme-edable {
+  width: 380px;
+  height: 20px;
+  font-family: candara;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5px;
+  color: #0b0026;
+  margin: 0;
+  line-height: 20px;
+  display: inline-block;
+  text-decoration: none;
+  outline: none;
+  border-radius: 0px;
+}
